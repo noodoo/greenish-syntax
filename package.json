@@ -1,0 +1,11 @@
+{
+  "name": "greenish-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A smooth dark green theme",
+  "repository": "https://github.com/noodoo/greenish-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
